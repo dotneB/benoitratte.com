@@ -46,14 +46,18 @@ const { Content } = await Astro.props.work.render();
   }
 
   .tags {
+	display: flex;
+	flex-wrap: wrap;
+
     .tag {
         padding: 0.25rem 1rem;
-		margin: 1.5rem 0.25rem;
+		margin: 1.5rem 0.25rem -0.25rem;
         color: var(--accent-text-over);
         border: 1px solid var(--accent-regular);
         background-color: var(--accent-regular);
         border-radius: 999rem;
         font-size: var(--text-small);
+		white-space: nowrap;
     }
   }
 
