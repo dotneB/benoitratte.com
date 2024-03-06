@@ -14,8 +14,5 @@
     "@astrojs/vercel": "^7.1.1",
     "astro": "^4.3.2",
     "typescript": "^5.3.3"
-  },
-  "volta": {
-    "node": "20.11.1"
   }
 }
