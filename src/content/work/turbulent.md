@@ -8,7 +8,7 @@ tags:
 ---
 
 ## Senior Backend Developer</div>
-### Mars 2024 - Current</div>
+### March 2024 - Current</div>
 
 - Design, develop and maintain various backend services powering Star Citizen.
 - Closely collaborate with the C++ team integrating these services into the game.
